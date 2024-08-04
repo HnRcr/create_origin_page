@@ -1,0 +1,31 @@
+* {
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.title{
+    font-size: 40px;
+}
+.title2{
+    font-weight: 800;
+}
+
+.head_box{
+    display: flex;
+    justify-content: space-between;
+}
+.movie_box{
+    position: relative;
+}
+.fa-play{
+    position: absolute;
+    right:8px;
+}
+i{
+    margin: 0 15px;
+    font-size: 21px;
+}
+.hello{
+    width: 600px;
+}
